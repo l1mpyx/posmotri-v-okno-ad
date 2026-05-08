@@ -1,1 +1,1 @@
-# Проект Посмотри в окно
+https://github.com/l1mpyx/posmotri-v-okno-ad
